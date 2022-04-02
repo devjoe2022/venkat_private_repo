@@ -1,4 +1,6 @@
 '''
+
+**********************************this code give the code for finding the max number of mail id repeated.*******************************
 name = input("Enter file:")
 if len(name) < 1:
     name = "mbox-short.txt"
